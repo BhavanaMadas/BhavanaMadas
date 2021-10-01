@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhavanaMadas
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested Power BI Domain
+- 🌱 I’m currently learning SQL
 - 📫 You can reach me at bhavanamadas@gmail.com
 
 <!---
